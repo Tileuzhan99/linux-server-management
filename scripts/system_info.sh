@@ -2,6 +2,8 @@
 
 echo "=== System Information ==="
 
+# Display basic information about the Linux server
+
 echo "Hostname:"
 hostname
 

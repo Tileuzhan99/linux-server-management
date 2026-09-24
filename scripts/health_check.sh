@@ -7,7 +7,7 @@ hostname
 
 echo ""
 echo "Disk usage:"
-df -h /
+df -h /nonexistent
 
 echo ""
 echo "Memory usage:"

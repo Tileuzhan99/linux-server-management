@@ -16,7 +16,8 @@ The project contains Bash scripts and documentation for common server management
 ## Development Workflow
 
 The project uses Git and GitHub for version control.
-New functionality is developed in separate feature branches and integrated into the main branch with code review.
+<<<<<<< HEAD
+New functionality is developed in separate feature branches and integrated into the main branch through Pull Requests, code review and testing.
 ## Branching Strategy
 
 The `main` branch contains stable versions of the project.
